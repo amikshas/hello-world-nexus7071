@@ -1,0 +1,6 @@
+# action.yml
+name: 'Hello Nexus'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+ 
